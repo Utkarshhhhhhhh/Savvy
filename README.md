@@ -87,9 +87,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [Your Email](mailto:utkarshsaxenagzb@gmail.com)
+Your Name - [utkarshsaxenagzb@gmail.com](mailto:utkarshsaxenagzb@gmail.com)
 
-Project Link: [https://github.com/username/repo-name](https://github.com/Utkarshhhhhhhh/Savvy)
+Project Link: [https://github.com/Utkarshhhhhhhh/Savvy](https://github.com/Utkarshhhhhhhh/Savvy)
 
 ---
 
