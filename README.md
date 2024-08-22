@@ -29,7 +29,10 @@ Savvy is a website that provides a comprehensive and well-structured roadmap for
 
 ## Features
 
--**Nothing**
+-**Provides Roadmaps for different topics**
+-**Easy to use**
+-**Structured Learning Paths**
+-**user-friendly interface**
 
 ---
 
@@ -87,7 +90,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [utkarshsaxenagzb@gmail.com](mailto:utkarshsaxenagzb@gmail.com)
+Email - [utkarshsaxenagzb@gmail.com](mailto:utkarshsaxenagzb@gmail.com)
 
 Project Link: [https://github.com/Utkarshhhhhhhh/Savvy](https://github.com/Utkarshhhhhhhh/Savvy)
 
